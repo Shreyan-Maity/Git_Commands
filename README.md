@@ -1,5 +1,5 @@
 
-# 📘 Git Commands Guide (Beginner-Friendly)
+# 📘 Git Commands Guide 
 
 A simple guide to understand Git commands in plain language.
 
@@ -99,7 +99,6 @@ git blame <file>             # Show who changed each line
 | Download from GitHub| `git pull origin main`     | Get latest updates       |
 | Undo file changes   | `git restore file.txt`     | Discard edits            |
 
----
 
 ✅ **Tip:** Start with `git init`, `git add`, `git commit`, and `git push/pull`. These are the core commands you’ll use daily. Once comfortable, explore branching and merging for team projects.
 
